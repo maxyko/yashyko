@@ -5,3 +5,4 @@
 2. [Python for Kids - Fun Tutorial to Learn Python ProgrammingLast Updated : 23 Jul, 2025](https://www.geeksforgeeks.org/python/python-for-kids)
 3. [Computer Science and Programming For Kids](https://www.geeksforgeeks.org/computer-science-fundamentals/computer-science-programming-for-kids/)
 
+https://www.geeksforgeeks.org/search/?gq=for+kids
